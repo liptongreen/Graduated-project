@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'NeueEinstellung';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Neue'), url('./Neue\ Einstellung\ Bold.woff') format('woff');
+    }
